@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\netcoreapp3.1\DataStructuresLab.exe
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\netcoreapp3.1\DataStructuresLab.deps.json
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\netcoreapp3.1\DataStructuresLab.runtimeconfig.json
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\netcoreapp3.1\DataStructuresLab.runtimeconfig.dev.json
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\netcoreapp3.1\DataStructuresLab.dll
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\netcoreapp3.1\DataStructuresLab.pdb
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\netcoreapp3.1\DataStructuresLab.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\netcoreapp3.1\DataStructuresLab.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\netcoreapp3.1\DataStructuresLab.AssemblyInfo.cs
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\netcoreapp3.1\DataStructuresLab.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\netcoreapp3.1\DataStructuresLab.dll
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\netcoreapp3.1\DataStructuresLab.pdb
+C:\Users\12482\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\netcoreapp3.1\DataStructuresLab.genruntimeconfig.cache
